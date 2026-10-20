@@ -199,6 +199,11 @@ This separation keeps the dispatcher as the decision owner while giving the driv
 
 ---
 
+## 10. Work Assignment
+![SafeRoute VN Assignment](docs/images/assignment.jpg)
+
+---
+
 ## © Copyright & Usage
 
 © 2026 **UIT APEX**. All rights reserved.
